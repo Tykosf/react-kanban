@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-kanban/static/css/main.0157a8f5.chunk.css",
+    "main.js": "/react-kanban/static/js/main.bd45efe2.chunk.js",
+    "main.js.map": "/react-kanban/static/js/main.bd45efe2.chunk.js.map",
+    "runtime-main.js": "/react-kanban/static/js/runtime-main.3a7034f3.js",
+    "runtime-main.js.map": "/react-kanban/static/js/runtime-main.3a7034f3.js.map",
+    "static/js/2.27e8e6e1.chunk.js": "/react-kanban/static/js/2.27e8e6e1.chunk.js",
+    "static/js/2.27e8e6e1.chunk.js.map": "/react-kanban/static/js/2.27e8e6e1.chunk.js.map",
+    "index.html": "/react-kanban/index.html",
+    "precache-manifest.bb9d99d28969260a029ed7c4250677b1.js": "/react-kanban/precache-manifest.bb9d99d28969260a029ed7c4250677b1.js",
+    "service-worker.js": "/react-kanban/service-worker.js",
+    "static/css/main.0157a8f5.chunk.css.map": "/react-kanban/static/css/main.0157a8f5.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a7034f3.js",
+    "static/js/2.27e8e6e1.chunk.js",
+    "static/css/main.0157a8f5.chunk.css",
+    "static/js/main.bd45efe2.chunk.js"
+  ]
+}
